@@ -14,8 +14,6 @@ s++;
 }
 /**
  *if c is '\0', you should return
- *the pointer to the '\0' of the
- *string s
 */
 if (*s == c)
 return (s);
